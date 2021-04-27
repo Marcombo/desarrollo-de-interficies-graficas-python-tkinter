@@ -1,2 +1,2 @@
 # desarrollo-de-interficies-graficas-python-tkinter
-Libro de desarrollo de interficies graficas python 3 y tkinter
+Libro de desarrollo de interfaces graficas en python 3 con tkinter

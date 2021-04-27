@@ -88,7 +88,7 @@ submenu_extensiones.add_checkbutton(label="html", variable=extension_html, comma
 menu_archivo.add_cascade(label='Extensiones', menu=submenu_extensiones)
 
 menu_archivo.add_separator()
-img = PhotoImage(file="./imagenes/salir.gif")
+img = PhotoImage(file="../imagenes/salir.gif")
 menu_archivo.add_command(label="Salir", image=img, compound="left", command=salir)
 barra_menus.add_cascade(label="Archivo", menu=menu_archivo)
 
